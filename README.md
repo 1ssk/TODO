@@ -29,7 +29,7 @@ project/
 
 1. **Клонируйте или скачайте** этот репозиторий:
    ```bash
-   git clone https://github.com/1ssk/TODO
+   git clone https://github.com/1ssk/TODO.git
    cd TODO
    ```
 
